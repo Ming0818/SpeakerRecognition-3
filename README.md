@@ -18,6 +18,6 @@ Neural Network built with PyBrain:
 
 Mean accuracy over 10 speakers: 
 
-75% with 0.2 seconds of voice data, 
+75% with 0.2 seconds of voice data (random guessing has 10% chance), 
 
 95% with 2 seconds of data.
