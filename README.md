@@ -4,7 +4,7 @@ Data comes from the LibriSpeech ASR corpus
 
 http://www.openslr.org/12/
 
-File: train-clean-100.tar.gz [6.3G](training set of 100 hours "clean" speech) 
+File: train-clean-100.tar.gz (6.3G)(training set of 100 hours "clean" speech) 
 
 Converted flac files to wav files.
 
