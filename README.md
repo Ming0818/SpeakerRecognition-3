@@ -13,3 +13,8 @@ Converted flac files to wav files.
 Female speakers: 1,3,5,7,9
 
 Male speakers: 2,4,6,8,10
+
+Neural Network built with PyBrain: 
+Mean accuracy over 10 speakers: 
+75% with 0.2 seconds of voice data, 
+> 95% with 2 seconds of data.
